@@ -1,10 +1,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f0f7ab14-b804-4233-a2ac-6c5333e81788)
-
 # Sing-Up-page
 ![Image](https://github.com/user-attachments/assets/7dc538ea-8f33-40a1-a3cb-44a82e86ac6b)
-
-
 ![Image](https://github.com/user-attachments/assets/b2da6a2c-8a8e-46cb-86d1-ab752b183421)
 ![Image](https://github.com/user-attachments/assets/7dd08895-ec13-402f-bc3f-da55b9de700c)
 ![Image](https://github.com/user-attachments/assets/4b57fe6e-9425-40e6-900e-bc0f2306d609)
@@ -15,3 +12,5 @@
 ![Image](https://github.com/user-attachments/assets/c22fb5c6-8796-4536-afed-3de62a2dc0e3)
 ![Image](https://github.com/user-attachments/assets/283761e7-6d74-45d2-985c-1834f623442a)
 ![Image](https://github.com/user-attachments/assets/420914e8-483c-4010-9f2c-9e29e0c12d06)
+![Screenshot 2025-07-04 130407](https://github.com/user-attachments/assets/93d1de8a-1795-4ecd-89de-4a0a7af41925)
+
